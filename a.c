@@ -4,5 +4,7 @@ int main () {
 
     printf{"%s", "Hello\n"};
 
+    return 0;
+
 }
 
